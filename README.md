@@ -489,3 +489,6 @@ npm run dev
 * CI/CD Pipeline
 * Audit Logging
 * Role-Based Access Control
+
+<img width="1648" height="711" alt="image" src="https://github.com/user-attachments/assets/906365c9-9eb9-49fb-a6f8-415b8db0d7e1" />
+
