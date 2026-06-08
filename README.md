@@ -74,3 +74,33 @@ Why React Router?
 Allows scalable routing as additional pages are added.
 
 This is a clean senior-level React implementation that matches the backend architecture you already built.
+
+###
+Order Status Tracker
+Tech Stack
+Backend
+ASP.NET Core Web API
+Repository Pattern
+Service Layer
+In-Memory Data Store
+Frontend
+React
+Axios
+React Router
+Functional Components
+Features
+Get Orders
+Status Filter
+Pagination
+Update Order Status
+Business Rule Validation
+Error Handling
+Valid Status Flow
+Pending → Shipped → Delivered
+
+Pending → Cancelled
+
+Shipped → Cancelled
+
+Run Backend
+dotnet run
